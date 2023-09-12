@@ -2,3 +2,5 @@ parpadeo
 https://wokwi.com/projects/375441390984671233
 boton
 https://wokwi.com/projects/375448584992190465
+listas
+https://wokwi.com/projects/375696613686590465
