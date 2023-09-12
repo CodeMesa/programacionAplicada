@@ -1,0 +1,13 @@
+1repositorio debe tener 
+ejercicios de wokwi
+  prender led {micropy]
+  
+  
+hola mundo py
+cilcos while y for en py
+
+2corte
+proyecto analogo digital
+duplas listas 
+diccionarios
+
