@@ -1,0 +1,14 @@
+enlace emulador wokwi
+https://wokwi.com/projects/379869851487145985
+cambiar datos de red para conctar a wifi y ver datos 
+
+enlace datos recolectados 
+https://thingspeak.com/channels/2324593
+tabla uno datos recolectados a lo largo del tiempo
+indicador 2 "posicion relativa" del potenciometro en vida real
+
+se recolectaron datos :
+  usando thony con el esp conectado a cable usb
+  esp desconectado y energizado con bateria de 5v
+  simulacion de wokwi
+
